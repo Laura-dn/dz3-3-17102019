@@ -1,0 +1,9 @@
+section {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+dt {font-style: italic;}
+.forExample {color: #8b8b96;}
+span {color: #605bbf;}
